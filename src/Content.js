@@ -8,7 +8,7 @@ const Content = () => {
         {
           id:1,
           checked:true,
-          item:"Practice Coding"
+          item:"Practice Coding"//
         },
         {
           id:2,
