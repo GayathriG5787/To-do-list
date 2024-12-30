@@ -31,5 +31,6 @@ const Content = ({items, handleCheck, handleDelete}) => {
     </main>
   )
 }
+//
 
 export default Content
