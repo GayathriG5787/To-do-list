@@ -6,5 +6,4 @@ const year = new Date();
     <footer>Copyright &copy; {year.getFullYear()}</footer>
   )
 }
-//
 export default Footer
